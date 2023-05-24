@@ -1,5 +1,7 @@
 ![logo](video-player3D.png)
 
+Inspired by https://www.youtube.com/watch?v=8sXYwYZahSY  
+
 # Video Player Viewport in 3D scene
 
 ** Fisrt person character made with Nodot **
